@@ -2,4 +2,5 @@
     <string name="app_name">FirebaseSample</string>
     <string name="token_will_be_here"><![CDATA[<Token will be here>]]></string>
     <string name="generate_token">Copy token</string>
+    <string name="send_token">Send token</string>
 </resources>
